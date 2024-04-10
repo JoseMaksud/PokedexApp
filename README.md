@@ -1,2 +1,2 @@
-# PokedexApp
-Pokedex feita na aula de Desenvolvimento para Dispositivos Moveis II
+# pokedexApp
+Projeto de desenvolvimento de aplicação React Nactive com Expo para criação de pokedex
